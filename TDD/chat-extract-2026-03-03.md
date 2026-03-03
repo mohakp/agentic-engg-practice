@@ -21,15 +21,8 @@
 
 ## Actual Prompts
 
-1. `first do git init. then create a folder called TDD.`
-2. `change to TDD folder and perform the following task:
+1. `change to TDD folder and perform the following task:
 Build a Python function to extract headers from a markdown string. Use red/green TDD.`
-3. `yes`
-4. `run the test suit again`
-5. `first create a .md file with an extract of this chat, in TDD with appended current date. then push it to https://github.com/mohakp/agentic-engg-practice.git`
-6. `add actual prompts in .md file`
-7. `yes push it`
-8. `add all prompts in this chat to .md`
 
 ---
 
